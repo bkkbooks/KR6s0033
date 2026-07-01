@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6s0033/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 大佛略懺
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T85/T85n2841.xml
+    old_id: T85n2841
+hash: sha256:b4920d717d1657959fefa1fbacf66017ea077f55cf4d85b460406935ce82fe3f

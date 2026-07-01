@@ -1,0 +1,42 @@
+canonical_identifier: bkk:krp/KR6s0033/v1
+canonical_location: https://kanripo.org/bkk/KR6s0033/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 大佛略懺
+  identifiers:
+    alt_id:
+    - T85n2841
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T85/T85n2841.xml
+    old_id: T85n2841
+  edition:
+    short: bkk
+editions:
+- short: 大
+  label: 大
+  source_xml_id: wit.orig
+- short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6s0033_000.yaml, hash: 'sha256:b4920d717d1657959fefa1fbacf66017ea077f55cf4d85b460406935ce82fe3f'}
+  - {seq: 1, filename: KR6s0033_001.yaml, hash: 'sha256:537502b8e8f7e636907f981cd90fe451b6e0c61a0b228e014fef4353d9504466'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR6s0033_001.markers.yaml, hash: 'sha256:208b6d80b54cf48efc4427ff4ce559e9d4564caa6005bbbaa046ef1bc80bf9c5'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6s0033_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 1599
+  label: 大佛略懺一卷
+  type: juan
+  level: 1
+hash: sha256:93bbe62c68054e5514d259b2e1041cc3859d4c6017fe255e461c6a5a9cc12322
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
