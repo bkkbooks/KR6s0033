@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6s0033/v1
 canonical_location: https://kanripo.org/bkk/KR6s0033/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 大佛略懺
   identifiers:
@@ -22,10 +22,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6s0033_000.yaml, hash: 'sha256:b4920d717d1657959fefa1fbacf66017ea077f55cf4d85b460406935ce82fe3f'}
-  - {seq: 1, filename: KR6s0033_001.yaml, hash: 'sha256:c12b128b2c2590ba29271499fd9eabd457b1fb5a400ac30a5e9fb91e783f7b5b'}
+  - {seq: 1, filename: KR6s0033_001.yaml, hash: 'sha256:8406a092a66b09fc0014897cb97f9fe74315e7dbbafbd7ea44ff05e3d6b49499'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR6s0033_000.markers.yaml, hash: 'sha256:90ac52b5d645c31d498075fdfd84aadc9bb4b5908a20a8d57571bb976339f640'}
-  - {seq: 1, role: markers, filename: assets/KR6s0033_001.markers.yaml, hash: 'sha256:24a86900536aba6f4e91362629d04392fe5d86c5856293075a0cb68683470b30'}
+  - {seq: 1, role: markers, filename: assets/KR6s0033_001.markers.yaml, hash: 'sha256:cab69849329e7d6d9bb52a2661df0ee9b88304b43817a202dd22f62646e73545'}
 table_of_contents:
 - ref:
     seq: 1
@@ -37,4 +37,7 @@ table_of_contents:
   label: 大佛略懺一卷
   type: juan
   level: 1
-hash: sha256:97c8781a2d4d960d509b0c932b5a0cea0ca6db8f35c39c9cc7883781d6c92c9e
+hash: sha256:906f381e2278095af0434def15c56c3a22812a848e38c7027cdd170cd580eeec
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
